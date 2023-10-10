@@ -6,6 +6,6 @@
 
 # Task 2
 ***
-Go through the given link and learn how to access the chirpstack API, fetch data, and print it on the console.\
+Go through the given link and learn how to access the chirpstack API, fetch data, and print it on the console.
 
 https://tekworldthink.blogspot.com/2023/09/how-to-access-chirpstack-api-python.html
