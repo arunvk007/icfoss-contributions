@@ -9,3 +9,7 @@
 Go through the given link and learn how to access the chirpstack API, fetch data, and print it on the console.
 
 https://tekworldthink.blogspot.com/2023/09/how-to-access-chirpstack-api-python.html
+
+# Task 3
+***
+Create a simple HTML page that integrates OpenStreetMap. Add a marker in Greenfield Stadium using javascript, take screenshots, and upload them to a folder named "Open Street Map.".
