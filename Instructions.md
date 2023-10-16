@@ -17,3 +17,11 @@ Create a simple HTML page that integrates OpenStreetMap. Add a marker in Greenfi
 # Task 4
 ***
 Create a flask application and show an open street map on the home page.
+
+# Task 5
+***
+* What is API?
+* Purpose?
+* API endpoints?
+* API Use case?
+* API data formats.
